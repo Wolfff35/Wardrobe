@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_save.xml",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_save.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_delete.xml",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_delete.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\wolff\\.android\\build-cache\\228f97d0fe00f38691f74367f7c26ae1842df182\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\nav_menu_select.xml",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\nav_menu_select.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\nav_menu_catalog.xml",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\nav_menu_catalog.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\nav_menu_settings.xml",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\nav_menu_settings.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\wolff\\.android\\build-cache\\228f97d0fe00f38691f74367f7c26ae1842df182\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

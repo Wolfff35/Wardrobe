@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID\ProjectS\Wardrobe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\ANDROID\ProjectS\Wardrobe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6aec8b6bfdeec9d35262cc3a940b7bc21f65b249\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID\ProjectS\Wardrobe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcc571789dfab94eaa9b2f76d9d732889f7d794a">
+        <dex dex="D:\ANDROID\ProjectS\Wardrobe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2b28af1493f2e5b9fa66377b37b8c4334badd668\classes.dex" />
+    </item>
+
+</items>

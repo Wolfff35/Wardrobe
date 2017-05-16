@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_menu_catalog.png",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\nav_menu_catalog.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_menu_settings.png",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\nav_menu_settings.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_menu_select.png",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\nav_menu_select.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_save.png",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_save.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue May 16 09:56:52 EEST 2017
+base.0=D\:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2b28af1493f2e5b9fa66377b37b8c4334badd668
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6aec8b6bfdeec9d35262cc3a940b7bc21f65b249\\classes.dex
+base.1=D\:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6aec8b6bfdeec9d35262cc3a940b7bc21f65b249
+file.0=D\:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2b28af1493f2e5b9fa66377b37b8c4334badd668\\classes.dex

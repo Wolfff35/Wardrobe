@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_general.xml",
+        "source": "D:\\ANDROID\\ProjectS\\Wardrobe\\app\\src\\main\\res\\xml\\preference_general.xml"
+    }
+]

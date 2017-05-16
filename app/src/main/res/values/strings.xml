@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="WSeasons">
+        <item>НЕТ</item>
+        <item>ЗИМА</item>
+        <item>ВЕСНА</item>
+        <item>ЛЕТО</item>
+        <item>ОСЕНЬ</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

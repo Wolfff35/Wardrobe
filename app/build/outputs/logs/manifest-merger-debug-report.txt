@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:3:11-39
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:9:4-10:50
+	android:maxSdkVersion
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:10:22-48
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:9:21-76
+uses-feature#android.hardware.camera
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:11:6-13:35
+	android:required
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:12:9-47
+application
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:15:5-50:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\wolff\.android\build-cache\228f97d0fe00f38691f74367f7c26ae1842df182\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\wolff\.android\build-cache\25e51cce9c277a86b73654e311345b232bd457a8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\wolff\.android\build-cache\4502a7faf434c2fafeea5ce221109ccd110e7b4b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:23.4.0] C:\Users\wolff\.android\build-cache\973c06cfb326d4f1494d5a5bb19eb70ce22b51e2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wolff\.android\build-cache\ad4d100a0b1c01c158dac362e12c38265c4b9134\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\wolff\.android\build-cache\e1ed72878debc5e2151c528c479d6b7960743b9e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\wolff\.android\build-cache\059908aea41ee7eab2083cccadcee8fe61024fd0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\wolff\.android\build-cache\24dac4bb3c2b700567a469d0880dee127301001e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\wolff\.android\build-cache\80ef7b8248d724ac8330442b21c983ce82d1ca84\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\wolff\.android\build-cache\698cfddda272a195744a86e41c68b70eaecf2b74\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\wolff\.android\build-cache\028d8cb3b26a436f0708a9e66c8b093910d2f23c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\wolff\.android\build-cache\4f4e5ec2bef23ef7ebbafba939d0ce2b4768ae5f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\wolff\.android\build-cache\cf19de205018668634a69ce663fdef1776998aae\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:20:9-35
+	android:roundIcon
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:19:9-54
+	android:allowBackup
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.wolff.wardrobe.ActivityMain
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.wolff.wardrobe.activities.Activity_WItem_Pager
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:parentActivityName
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:33:13-55
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.wolff.wardrobe.activities.Activity_NewWItem
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:36:9-38:20
+	android:parentActivityName
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:36:19-63
+provider#android.support.v4.content.FileProvider
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:authorities
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:42:13-57
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:44:13-47
+	android:exported
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:41:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:45:13-47:58
+	android:resource
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml:46:17-67
+uses-sdk
+INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\wolff\.android\build-cache\228f97d0fe00f38691f74367f7c26ae1842df182\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\wolff\.android\build-cache\25e51cce9c277a86b73654e311345b232bd457a8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\wolff\.android\build-cache\4502a7faf434c2fafeea5ce221109ccd110e7b4b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:preference-v7:23.4.0] C:\Users\wolff\.android\build-cache\973c06cfb326d4f1494d5a5bb19eb70ce22b51e2\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\wolff\.android\build-cache\901966938de8f467e83afef69b154f4cb8dab8f8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wolff\.android\build-cache\ad4d100a0b1c01c158dac362e12c38265c4b9134\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\wolff\.android\build-cache\e1ed72878debc5e2151c528c479d6b7960743b9e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\wolff\.android\build-cache\059908aea41ee7eab2083cccadcee8fe61024fd0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\wolff\.android\build-cache\24dac4bb3c2b700567a469d0880dee127301001e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\wolff\.android\build-cache\80ef7b8248d724ac8330442b21c983ce82d1ca84\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\wolff\.android\build-cache\698cfddda272a195744a86e41c68b70eaecf2b74\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\wolff\.android\build-cache\028d8cb3b26a436f0708a9e66c8b093910d2f23c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\wolff\.android\build-cache\4f4e5ec2bef23ef7ebbafba939d0ce2b4768ae5f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\wolff\.android\build-cache\cf19de205018668634a69ce663fdef1776998aae\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\wolff\.android\build-cache\228f97d0fe00f38691f74367f7c26ae1842df182\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ANDROID\ProjectS\Wardrobe\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\wolff\.android\build-cache\228f97d0fe00f38691f74367f7c26ae1842df182\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\wolff\.android\build-cache\25e51cce9c277a86b73654e311345b232bd457a8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\wolff\.android\build-cache\901966938de8f467e83afef69b154f4cb8dab8f8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wolff\.android\build-cache\ad4d100a0b1c01c158dac362e12c38265c4b9134\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\wolff\.android\build-cache\e1ed72878debc5e2151c528c479d6b7960743b9e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\wolff\.android\build-cache\059908aea41ee7eab2083cccadcee8fe61024fd0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\wolff\.android\build-cache\24dac4bb3c2b700567a469d0880dee127301001e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\wolff\.android\build-cache\80ef7b8248d724ac8330442b21c983ce82d1ca84\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\wolff\.android\build-cache\698cfddda272a195744a86e41c68b70eaecf2b74\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\wolff\.android\build-cache\028d8cb3b26a436f0708a9e66c8b093910d2f23c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\wolff\.android\build-cache\4f4e5ec2bef23ef7ebbafba939d0ce2b4768ae5f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\wolff\.android\build-cache\cf19de205018668634a69ce663fdef1776998aae\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\wolff\.android\build-cache\228f97d0fe00f38691f74367f7c26ae1842df182\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\wolff\.android\build-cache\228f97d0fe00f38691f74367f7c26ae1842df182\output\AndroidManifest.xml:26:9-47
